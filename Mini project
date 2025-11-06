@@ -1,0 +1,19 @@
+student-management/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/example/student/
+│   │   │       ├── config/
+│   │   │       │   └── AppConfig.java
+│   │   │       ├── controller/
+│   │   │       │   └── MainApp.java
+│   │   │       ├── dao/
+│   │   │       │   └── StudentDAO.java
+│   │   │       ├── model/
+│   │   │       │   ├── Course.java
+│   │   │       │   └── Student.java
+│   │   │       └── service/
+│   │   │           └── FeeService.java
+│   │   └── resources/
+│   │       └── hibernate.cfg.xml
+├── pom.xml
